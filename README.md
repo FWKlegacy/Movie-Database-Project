@@ -7,10 +7,7 @@ Welcome to the Movie Database project! This is a React application that allows u
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Routing](#routing)
-- [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Features
 
