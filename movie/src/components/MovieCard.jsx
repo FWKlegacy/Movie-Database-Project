@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 function MovieCard({ movie }) {
-  if (!movie) return <p>Loading...</p>; // Add this guard
+  if (!movie) return <p>Loading....</p>; // Add this guard
 
   return (
     <div className="movie-card">
